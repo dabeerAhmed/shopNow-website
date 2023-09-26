@@ -1,0 +1,14 @@
+.sale{
+    height: 30px;
+    background-color: white;
+    color: yellowgreen;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    outline-style: solid;
+    outline-color: green;
+    width: 1210px;
+    /* padding-left: 10%; */
+    margin-left: 5%;
+}

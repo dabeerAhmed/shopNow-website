@@ -1,0 +1,18 @@
+.trending-div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0% 5%;
+    z-index: 3;
+}
+.trending-item{
+    margin: 1rem;
+    cursor: pointer;
+    font-size: 110%;
+    font-weight: bold;
+    font-family: 'Raleway', sans-serif;
+}
+.trending-item:hover{
+    border-bottom: 2px solid red;
+    color: red;
+}
